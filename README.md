@@ -1,4 +1,4 @@
-# dirGraph
+# dirGraph (actualizado)
 dirGraph es un proyecto que nos permite visualizar un menu de carpetas que describe el contenido de un archivo JSON obtenido desde  la URL ingresada en el Input.
 
 ## Comenzando 
